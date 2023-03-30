@@ -1,5 +1,5 @@
 # Pharmaceutical Sales Analysis with Power BI
-![Image](Screenshot_(21).png)  ![Image](Screenshot_(20).png)  ![Image](Screenshot_(19).png)
+![Image](Screenshot_(21).png)  ![Image](https://github.com/Chelseadamola/Pharmaceutical-Sales-Dashboard/blob/main/Screenshot%20(19).png)  ![Image](Screenshot_(19).png)
 This repository contains my first Power BI project that provides a detailed analysis of pharmaceutical sales data, including yearly revenue, total transactions, total quantity, and revenue of managers. With visually appealing and easy-to-read charts and maps, this project makes it easy to gain insights into pharmaceutical sales data.
 
 To ensure ease of navigation, this project includes next and previous pages, allowing for seamless transitions between different visualizations. Additionally, a mobile view is available for those who prefer to view the project on their Power BI app.
